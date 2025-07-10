@@ -23,6 +23,9 @@ Signify Dark is a free dark Blog and Corporate WordPress theme that is trendy, r
 
 == Changelog ==
 
+= 2.2 - Jul 10 2025 =
+* Fix: Sub-menu background color
+
 = 2.1 - Jul 02 2025 =
 * WP 6.8 compatibility
 
