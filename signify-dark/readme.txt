@@ -4,7 +4,7 @@ Contributors: wenthemes
 Tags: one-column, two-columns, right-sidebar, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-image-header, featured-images, flexible-header, footer-widgets, full-width-template, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, block-styles, wide-blocks, news, photography, portfolio
 Requires at least: 5.9
 Tested up to: 7.1
-Requires PHP: 5.6
+Requires PHP: 7.4
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -22,6 +22,9 @@ Signify Dark is a free dark Blog and Corporate WordPress theme that is trendy, r
 4. Navigate to Appearance -> Customize in your admin panel and customize to taste.
 
 == Changelog ==
+
+= 2.3.1 - Sep 27 2026 =
+* Updated: Minimum required PHP version is now 7.4, matching WordPress
 
 = 2.3 - Sep 22 2026 =
 * Fix: Color style for Gallery Block Lightbox overlay
